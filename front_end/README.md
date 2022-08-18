@@ -1,4 +1,4 @@
-# pncaa_project
+# front_end
 
 ## Project setup
 ```
